@@ -1,0 +1,7 @@
+
+git add -f devtools/bin/*
+
+
+
+
+git update-ref -d HEAD
